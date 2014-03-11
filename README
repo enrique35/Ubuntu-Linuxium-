@@ -1,0 +1,3 @@
+Ubuntu-Linuxium-
+Kernel source for Linuxium Ubuntu RFS (T-r42 modded)
+Kernel is working (interface detected & rk29 vmac module loaded) however it will not control the interface correctly (no ip via dhcp, reception errors).
